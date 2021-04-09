@@ -1,1 +1,1 @@
-web: gunicorn studentApp.wsgi
+web: gunicorn studentResults.wsgi
